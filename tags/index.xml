@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on hokita.dev</title>
-    <link>https://hokita.github.io/tags/</link>
+    <link>https://hokita.dev/tags/</link>
     <description>Recent content in Tags on hokita.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hokita.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hokita.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>wip</title>
-      <link>https://hokita.github.io/tags/wip/</link>
+      <link>https://hokita.dev/tags/wip/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hokita.github.io/tags/wip/</guid>
+      <guid>https://hokita.dev/tags/wip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://hokita.github.io/tags/index/</link>
+      <link>https://hokita.dev/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hokita.github.io/tags/index/</guid>
+      <guid>https://hokita.dev/tags/index/</guid>
       <description></description>
     </item>
     
