@@ -6,18 +6,19 @@
     <description>Recent content in Posts on hokita.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hokita.dev/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>工事中</title>
-      <link>https://hokita.dev/post/20200531/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <title>現役エンジニアのMacの設定</title>
+      <link>https://hokita.dev/post/20200606/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hokita.dev/post/20200531/</guid>
-      <description>wip</description>
+      <guid>https://hokita.dev/post/20200606/</guid>
+      <description>背景 最近会社から新しいMacbookが支給されセットアップする機会があったので、すべてではないですがどういう設定をしているのか、どういうアプリを入れているかを書いていこうかと思います。
+対象  エンジニアを目指している方 初心者エンジニア  目次  マウススピード キーのリピートスピード コントロールの位置変更 常時Night ShiftをON Alfred Chrome 1Password まとめ  マウススピード まず一番最初にセットアップしたのがマウススピードです。システム環境設定で「軌跡の速さ」をMAXにしています。（フリーソフトなどでもっと速くしている方もいらっしゃいます。）最初は慣れないと思いますが、すぐ慣れます。</description>
     </item>
     
   </channel>
