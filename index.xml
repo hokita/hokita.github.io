@@ -6,10 +6,18 @@
     <description>Recent content on hokita.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hokita.dev/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020年買ってよかったもの</title>
+      <link>https://hokita.dev/post/20201231/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hokita.dev/post/20201231/</guid>
+      <description>概要 2020年買ってよかったものを書いていきます！
+Fitbit Charge 4 https://www.amazon.co.jp/gp/product/B085M5SXVS
+買ってよかったものNo.1はFitbit Charge 4です！
+コロナの影響で今年からリモートワークが始まって、健康への意識が高まったかたも多いのではないでしょうか。私もその一人で運動不足を解消するためにマラソンを始めたり、睡眠時間を今までより長く取ったりと生活の改善に取り組んできました。そのなかで睡眠の質を上げるために睡眠トラッキングをしたく、Fitbitを購入しました。</description>
+    </item>
     
     <item>
       <title>エンジニア初心者がプログラミングを始める前に必要な準備</title>

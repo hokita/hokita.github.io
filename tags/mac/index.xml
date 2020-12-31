@@ -6,11 +6,7 @@
     <description>Recent content in Mac on hokita.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hokita.dev/tags/mac/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>現役エンジニアのMacの設定</title>
       <link>https://hokita.dev/post/20200606/</link>

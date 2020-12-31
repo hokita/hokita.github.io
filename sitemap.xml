@@ -4,16 +4,36 @@
   
   <url>
     <loc>https://hokita.dev/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hokita.dev/tags/beginner/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <loc>https://hokita.dev/tags/2020%E5%B9%B4/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/post/20201231/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hokita.dev/post/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/beginner/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://hokita.dev/tags/programming/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/tags/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
