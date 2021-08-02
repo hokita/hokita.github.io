@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>beginner on hokita.dev</title>
+    <title>beginner on てっくぶろぐ</title>
     <link>https://hokita.dev/tags/beginner/</link>
-    <description>Recent content in beginner on hokita.dev</description>
+    <description>Recent content in beginner on てっくぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>エンジニア初心者がプログラミングを始める前に必要な準備</title>
-      <link>https://hokita.dev/post/20200614/</link>
+      <link>https://hokita.dev/posts/20200614/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hokita.dev/post/20200614/</guid>
-      <description>概要 今回はプログラミングを始めるのに必要な準備を書いていこうと思います。いきなりプログラミングと言っても何から初めていいのかわからないと言う人に読んで頂けたらと思います。
-対象  エンジニアを目指している方 初心者エンジニア 趣味でプログラミングを始めようと思っている方  目次  Githubに登録しよう 黒い画面に慣れよう Git操作に慣れよう 作りたいものを決めよう エディタを決めよう 技術書を読もう まとめ 最後に  Githubに登録しよう まず必ずと言っていいほど必要なツールがGithubです。説明すると長くなってしまうのですが、最初はコードをネット上に保存するものと考えて頂ければいいと思います。なにも考えずGithubに登録しましょう。</description>
+      <guid>https://hokita.dev/posts/20200614/</guid>
+      <description>&lt;p&gt;プログラミングを始めるのに必要な準備を書いていこうと思います。いきなりプログラミングと言っても何から初めていいのかわからないと言う人に読んで頂けたらと思います。&lt;/p&gt;</description>
     </item>
     
   </channel>

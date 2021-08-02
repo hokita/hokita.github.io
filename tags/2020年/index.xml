@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2020年 on hokita.dev</title>
+    <title>2020年 on てっくぶろぐ</title>
     <link>https://hokita.dev/tags/2020%E5%B9%B4/</link>
-    <description>Recent content in 2020年 on hokita.dev</description>
+    <description>Recent content in 2020年 on てっくぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/tags/2020%E5%B9%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020年買ってよかったもの</title>
-      <link>https://hokita.dev/post/20201231/</link>
+      <link>https://hokita.dev/posts/20201231/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hokita.dev/post/20201231/</guid>
-      <description>概要 2020年買ってよかったものを書いていきます！
-Fitbit Charge 4 https://www.amazon.co.jp/gp/product/B085M5SXVS
-買ってよかったものNo.1はFitbit Charge 4です！
-コロナの影響で今年からリモートワークが始まって、健康への意識が高まったかたも多いのではないでしょうか。私もその一人で運動不足を解消するためにマラソンを始めたり、睡眠時間を今までより長く取ったりと生活の改善に取り組んできました。そのなかで睡眠の質を上げるために睡眠トラッキングをしたく、Fitbitを購入しました。</description>
+      <guid>https://hokita.dev/posts/20201231/</guid>
+      <description>&lt;p&gt;2020年買ってよかったものを書いていきます！&lt;/p&gt;</description>
     </item>
     
   </channel>

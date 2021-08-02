@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on てっくぶろぐ</title>
+    <link>https://hokita.dev/posts/</link>
+    <description>Recent content in Posts on てっくぶろぐ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020年買ってよかったもの</title>
+      <link>https://hokita.dev/posts/20201231/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hokita.dev/posts/20201231/</guid>
+      <description>&lt;p&gt;2020年買ってよかったものを書いていきます！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>エンジニア初心者がプログラミングを始める前に必要な準備</title>
+      <link>https://hokita.dev/posts/20200614/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hokita.dev/posts/20200614/</guid>
+      <description>&lt;p&gt;プログラミングを始めるのに必要な準備を書いていこうと思います。いきなりプログラミングと言っても何から初めていいのかわからないと言う人に読んで頂けたらと思います。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>現役エンジニアのMacの設定</title>
+      <link>https://hokita.dev/posts/20200606/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hokita.dev/posts/20200606/</guid>
+      <description>&lt;p&gt;最近会社から新しいMacbookが支給されセットアップする機会があったので、どういう設定をしているのか、どういうアプリを入れているかを書いていこうかと思います。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

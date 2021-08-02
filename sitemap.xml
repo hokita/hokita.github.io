@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hokita.dev/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+    <loc>https://hokita.dev/about/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +13,22 @@
   </url>
   
   <url>
-    <loc>https://hokita.dev/post/20201231/</loc>
+    <loc>https://hokita.dev/posts/20201231/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hokita.dev/post/</loc>
+    <loc>https://hokita.dev/posts/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hokita.dev/tags/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://hokita.dev/post/20200614/</loc>
+    <loc>https://hokita.dev/posts/20200614/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,26 +93,12 @@
   </url>
   
   <url>
-    <loc>https://hokita.dev/post/20200606/</loc>
+    <loc>https://hokita.dev/posts/20200606/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hokita.dev/about/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hokita.dev/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/tags/index/</loc>
   </url>
   
 </urlset>
