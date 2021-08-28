@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>てっくぶろぐ</title>
+    <title>WASAKARA</title>
     <link>https://hokita.dev/</link>
-    <description>Recent content on てっくぶろぐ</description>
+    <description>Recent content on WASAKARA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
@@ -24,7 +24,8 @@
       
       <guid>https://hokita.dev/about/</guid>
       <description>NAME Hidetaka Okita / hokita
-Bio ECサイトのバックエンドを担当。仕事では Ruby on Rails、時々 React、趣味で Go。</description>
+Bio ECサイトのバックエンドを担当。仕事では Ruby on Rails、時々 React、趣味で Go。
+WASAKARA の由来 我が家の愛デグー「わさび」と「からし」のこと。</description>
     </item>
     
     <item>
