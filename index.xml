@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>わさからtech</title>
+    <title>hokita.dev</title>
     <link>https://hokita.dev/</link>
-    <description>Recent content on わさからtech</description>
+    <description>Recent content on hokita.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
@@ -24,8 +24,7 @@
       
       <guid>https://hokita.dev/about/</guid>
       <description>NAME Hidetaka Okita / hokita
-Bio ECサイトのバックエンドを担当。仕事では Ruby on Rails、時々 React、趣味で Go。
-わさからtech の由来 「わさから」とは、我が家の愛デグー「わさび」と「からし」のこと。</description>
+Bio ECサイトのバックエンドを担当。仕事では Ruby on Rails、時々 React、趣味で Go。</description>
     </item>
     
     <item>
