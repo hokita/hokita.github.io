@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hokita.dev/tags/2021%E5%B9%B4/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/posts/20211230/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/posts/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/4k/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hokita.dev/posts/20210802/</loc>
     <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
@@ -13,12 +48,17 @@
   </url>
   
   <url>
-    <loc>https://hokita.dev/</loc>
+    <loc>https://hokita.dev/tags/blog/</loc>
     <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hokita.dev/posts/</loc>
+    <loc>https://hokita.dev/tags/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,16 +69,6 @@
   
   <url>
     <loc>https://hokita.dev/posts/20201231/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/tags/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/tags/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +89,6 @@
   
   <url>
     <loc>https://hokita.dev/posts/20200614/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
