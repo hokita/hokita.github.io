@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hokita.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プロジェクトの心得4選</title>
+      <link>https://hokita.dev/posts/20220214/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hokita.dev/posts/20220214/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;約9ヶ月ほどのプロジェクトを回してみて感じた課題を、次回プロジェクトのときの心得として記載する。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>2021年買ってよかったもの</title>
       <link>https://hokita.dev/posts/20211230/</link>

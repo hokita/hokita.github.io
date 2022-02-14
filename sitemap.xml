@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hokita.dev/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/posts/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/posts/20220214/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hokita.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hokita.dev/tags/2021%E5%B9%B4/</loc>
     <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hokita.dev/posts/20211230/</loc>
-    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/</loc>
-    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/posts/</loc>
-    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hokita.dev/tags/</loc>
     <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url>
   
